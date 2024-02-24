@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title("I am awesom:);
+streamlit.title("I am awesom");
